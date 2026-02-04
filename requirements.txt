@@ -1,0 +1,5 @@
+pyrogram==2.0.106
+pytgcalls==3.0.0.dev24
+yt-dlp==2024.4.9
+youtube-search-python==1.6.6
+python-dotenv==1.0.0
