@@ -1,0 +1,14 @@
+language = "python3"
+run = "python main.py"
+
+[env]
+PYTHONPATH = "/home/runner/${REPL_SLUG}"
+
+[packages]
+python3 = "3.10.12"
+
+[features]
+internet = true
+
+[nix]
+channel = "stable-23_11"
